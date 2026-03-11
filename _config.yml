@@ -1,6 +1,6 @@
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
+# This config file is meant for settings that affect your whole blog, values which you are expected to set up once and rarely need to edit after that.
 # You can get access to RAW repository from this address: https://github.com/ericdaat/research-lab-website
+# Jekyll
 
 # Site settings
 title: SMART Life Cycle Engineering Lab
