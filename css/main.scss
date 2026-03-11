@@ -87,11 +87,38 @@ p {
   margin: 60px 0;
 }
 
-.footer {
+.footer-section {
+  background: #f8f8f8;
+  border-top: 1px solid #e5e5e5;
   margin-top: 80px;
   padding: 40px 0;
-  border-top: 1px solid #eee;
+}
+
+.footer-col h4 {
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-links li {
+  margin-bottom: 6px;
+}
+
+.footer-links a {
+  color: #003d7c;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+.footer-copy {
   color: #777;
+  font-size: 14px;
 }
 
 a {
