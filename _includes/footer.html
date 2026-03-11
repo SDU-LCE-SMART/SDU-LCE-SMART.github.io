@@ -1,33 +1,60 @@
-<div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-		<div class="row">
-			<div class="col-sm-4">
-				<p>{{ site.title }}</p>
-				<img class="img-fluid" src="{{ site.baseurl }}/images/logo/lab-logo.png"
-				     style="max-width: 100px;">
-			</div>
+<div id="footer" class="footer-section">
+  <div class="container-fluid footer-container">
 
-			<div class="col-sm-4">
-				<p>Links</p>
-				<ul class="list-unstyled">
-					<li><a href="https://github.com/ericdaat/research-lab-website">Github Repository</a></li>
-					<li><a href="">Link</a></li>
-					<li><a href="">Link</a></li>
-					<li><a href="">Link</a></li>
-				</ul>
-			</div>
+    <div class="row">
 
-			<div class="col-sm-4">
-				<p>Contact</p>
-				<p>Some Address</p>
-			</div>
-		</div>
+      <!-- Lab identity -->
+      <div class="col-md-4 footer-col">
+        <h4>{{ site.title }}</h4>
+        <p>
+          SMART Life Cycle Engineering Lab<br>
+          University of Southern Denmark
+        </p>
 
-		<div class="row mt-3">
-			<p class="text-center">Copyright, 2019</p>
-		</div>
-	</div>
+        <img src="{{ site.baseurl }}/images/logo/lab-logo.png"
+             alt="Lab logo"
+             style="max-width:120px; margin-top:10px;">
+      </div>
+
+      <!-- Navigation -->
+      <div class="col-md-4 footer-col">
+        <h4>Site Navigation</h4>
+        <ul class="footer-links">
+          <li><a href="{{ site.baseurl }}/">Home</a></li>
+          <li><a href="{{ site.baseurl }}/research">Research</a></li>
+          <li><a href="{{ site.baseurl }}/team">Team</a></li>
+          <li><a href="{{ site.baseurl }}/publications">Publications</a></li>
+          <li><a href="{{ site.baseurl }}/news">News</a></li>
+        </ul>
+      </div>
+
+      <!-- Contact -->
+      <div class="col-md-4 footer-col">
+        <h4>Contact</h4>
+        <p>
+          SMART Life Cycle Engineering Lab<br>
+          Department of Green Technology<br>
+          University of Southern Denmark<br>
+          Odense, Denmark
+        </p>
+
+        <p>
+          Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+        </p>
+      </div>
+
+    </div>
+
+    <hr>
+
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <p class="footer-copy">
+          © {{ site.time | date: "%Y" }} {{ site.title }} – University of Southern Denmark
+        </p>
+      </div>
+    </div>
+
   </div>
 </div>
 
