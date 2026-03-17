@@ -1,9 +1,7 @@
 ---
-title: "Research"
+title: "Projects"
 layout: default
-excerpt: "RT2 Lab -- Research"
-sitemap: false
-permalink: /research/
+permalink: /projects/
 ---
 
 # Research
