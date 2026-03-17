@@ -1,9 +1,7 @@
 ---
-title: "Vacancies"
+title: "Photo"
 layout: default
-excerpt: "Openings"
-sitemap: false
-permalink: /vacancies
+permalink: /photo/
 ---
 
 We are always looking for new group members with passion, talent, and grit!
