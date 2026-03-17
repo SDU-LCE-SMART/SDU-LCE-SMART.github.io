@@ -2,7 +2,7 @@
 layout: member
 category: Team Supervisor 
 title: Benyamin Khoshnevisan
-image: IMG_0742.JPG.jpeg
+image:IMG_0742.JPG.jpeg
 role: Associate Professor
 permalink: 'team/researcher-name'
 social:
