@@ -6,7 +6,7 @@ image: IMG_0742.JPG.jpeg
 role: Associate Professor
 permalink: 'team/researcher-name'
 social:
-    twitter: https://twitter.com/
+    Email: bekh@igt.sdu.dk
     linkedin: [https://www.linkedin.com/](https://www.linkedin.com/in/benyamin-khoshnevisan-23a51888/)
     google-scholar: [https://scholar.google.fr/](https://scholar.google.com/citations?hl=en&authuser=1&user=AnG-_6IAAAAJ)
     github: 
