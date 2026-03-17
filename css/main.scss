@@ -256,6 +256,9 @@ figcaption {
 
 .footer-links a {
   color: var(--gray);
+  list-style: disc;
+  padding-left: 0;
+  margin-left: 0;
 }
 
 .footer-links a:hover {
