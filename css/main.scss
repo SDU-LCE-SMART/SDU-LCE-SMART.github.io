@@ -171,12 +171,33 @@ a:hover {
 }
 
 .navbar-nav > li > a {
+  position: relative;
   font-size: 15px;
   color: var(--dark-gray);
+  text-decoration: none;
+  padding-bottom: 5px;
+  transition: color 0.2s ease;
 }
 
 .navbar-nav > li > a:hover {
   color: var(--green-primary);
+}
+
+/* underline animation */
+.navbar-nav > li > a::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  width: 0%;
+  height: 2px;
+  background: var(--green-primary);
+  transform: translateX(-50%);
+  transition: width 0.3s ease;
+}
+
+.navbar-nav > li > a:hover::after {
+  width: 100%;
 }
 
 
@@ -254,11 +275,19 @@ figcaption {
   text-align: center;
 }
 
-.footer-links a {
-  color: var(--gray);
-  list-style: disc;
+/* FIXED: apply to UL, not A */
+.footer-links {
+  list-style: none;     /* remove ugly default dots */
   padding-left: 0;
   margin-left: 0;
+}
+
+.footer-links li {
+  margin-bottom: 6px;
+}
+
+.footer-links a {
+  color: var(--gray);
 }
 
 .footer-links a:hover {
