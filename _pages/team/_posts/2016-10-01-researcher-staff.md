@@ -4,7 +4,7 @@ category: Team Supervisor
 title: Benyamin Khoshnevisan
 image: IMG_0742.JPG.jpeg
 role: Associate Professor
-permalink: /team/researcher-name/
+permalink: 'team/researcher-name'
 social:
     Email: bekh@igt.sdu.dk
     linkedin: https://www.linkedin.com/in/benyamin-khoshnevisan-23a51888/
