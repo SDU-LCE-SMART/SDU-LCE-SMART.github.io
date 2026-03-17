@@ -6,13 +6,13 @@ image: IMG_0742.JPG.jpeg
 role: Associate Professor
 permalink: 'team/researcher-name'
 social:
-    Email: bekh@igt.sdu.dk
+    twitter:
     linkedin: https://www.linkedin.com/in/benyamin-khoshnevisan-23a51888/
     google-scholar: https://scholar.google.com/citations?hl=en&authuser=1&user=AnG-_6IAAAAJ
-    github: ""
+    github:
     website: https://portal.findresearcher.sdu.dk/da/persons/benyamin-khoshnevisan/
     orcid: https://orcid.org/0000-0003-0236-5970
-    research-gate: https://www.researchgate.net/
+    research-gate:
 education:
  - "PhD in Biosystems Engineering"
 ---
