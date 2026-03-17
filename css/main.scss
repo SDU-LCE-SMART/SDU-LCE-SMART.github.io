@@ -76,7 +76,7 @@ a:hover {
 
 .hero-banner {
   position: relative;
-  height: 520px; /* FIXED HEIGHT */
+  height: 100%; /* FIXED HEIGHT */
 }
 
 .hero-banner img {
@@ -108,8 +108,8 @@ a:hover {
 
 /* LOGO (3× bigger but controlled) */
 .hero-logo {
-  max-width: 260px;  /* balanced size */
-  margin-bottom: 20px;
+  max-width: 460px;  /* balanced size */
+  margin-bottom: 10px;
 }
 
 /* TITLE (smaller + black) */
