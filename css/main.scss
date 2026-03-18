@@ -325,6 +325,25 @@ img {
   margin-bottom: 20px;
 }
 
+.member-social li {
+  display: inline-block;
+  margin: 0 8px;
+}
+
+.member-social a {
+  font-size: 18px;
+  color: var(--green-primary);
+}
+
+.member-section {
+  margin-top: 40px;
+}
+
+.member-section h3 {
+  text-align: left;
+  margin-bottom: 15px;
+}
+
 /* =========================
    TEAM PAGE
 ========================= */
