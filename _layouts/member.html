@@ -82,9 +82,10 @@ layout: default
         </li>
       {% endif %}
 
-      {% if page.social.google-scholar %}
+
+      {% if page.social["google-scholar"] %}
         <li>
-          <a target="_blank" href="{{ page.social.google-scholar }}">
+          <a target="_blank" href="{{ page.social["google-scholar"] }}">
             <i class="fab fa-google"></i>
           </a>
         </li>
@@ -98,9 +99,9 @@ layout: default
         </li>
       {% endif %}
 
-      {% if page.social.research-gate %}
+      {% if page.social["research-gate"] %}
         <li>
-          <a target="_blank" href="{{ page.social.research-gate }}">
+          <a target="_blank" href="{{ page.social["research-gate"] }}">
             <i class="fab fa-researchgate"></i>
           </a>
         </li>
