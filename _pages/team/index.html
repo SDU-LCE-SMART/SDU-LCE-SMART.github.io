@@ -39,38 +39,6 @@ permalink: /team/
 {% endfor %}
 
 <!-- =========================
-         PhDs
-========================= -->
-
-<h2 id="phds" class="team-section-title">PhDs</h2>
-
-{% assign members = site.posts | where: 'category', 'phds' | sort: 'date' %}
-{% for member in members %}
-<div class="team-card">
-
-    <div class="team-card-row">
-
-        <!-- IMAGE -->
-        <div class="team-image">
-            <a href="{{ member.url }}">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
-                     class="team-photo"/>
-            </a>
-        </div>
-
-        <!-- INFO -->
-        <div class="team-info">
-            <h4 class="team-name">{{ member.title }}</h4>
-            <p class="team-role">{{ member.role }}</p>
-        </div>
-
-    </div>
-
-</div>
-{% endfor %}
-
-
-<!-- =========================
          postdoctorals
 ========================= -->
 
@@ -101,6 +69,36 @@ permalink: /team/
 </div>
 {% endfor %}
 
+<!-- =========================
+         PhDs
+========================= -->
+
+<h2 id="phds" class="team-section-title">PhDs</h2>
+
+{% assign members = site.posts | where: 'category', 'phds' | sort: 'date' %}
+{% for member in members %}
+<div class="team-card">
+
+    <div class="team-card-row">
+
+        <!-- IMAGE -->
+        <div class="team-image">
+            <a href="{{ member.url }}">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
+                     class="team-photo"/>
+            </a>
+        </div>
+
+        <!-- INFO -->
+        <div class="team-info">
+            <h4 class="team-name">{{ member.title }}</h4>
+            <p class="team-role">{{ member.role }}</p>
+        </div>
+
+    </div>
+
+</div>
+{% endfor %}
 
 <!-- =========================
          Research Assistants
