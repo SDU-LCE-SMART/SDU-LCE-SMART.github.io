@@ -15,15 +15,24 @@ layout: default
     <div class="row text-center">
         <!-- Avatar -->
         <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ page.image }}"
-             class="img-circle"
-             style="filter: grayscale(100%); max-width: 200px;"/>
+             class="member-photo"/>
 
         <!-- Name & Role -->
         <h1>{{ page.title }}</h1>
         <h3>{{ page.role }}</h3>
 
+
+
         <!-- Social -->
         <ul class="list-inline list-unstyled">
+            <!-- Email -->
+            {% if page.social.Email %}
+              <li>
+                <a href="mailto:{{ page.social.Email }}">
+                  <i class="fas fa-envelope"></i>
+                </a>
+              </li>
+            {% endif %}
             <!-- Twitter -->
             {% if page.social.twitter %}
                 <li><a target="blank" href="{{page.social.twitter}}"><i class="fab fa-twitter"></i></a></li>
@@ -68,6 +77,8 @@ layout: default
     <!-- Bio -->
     <div class="row">
         <h3>Bio</h3>
+        <div class="member-bio">
         {{ content }}
+        </div>
     </div>
 </div>
