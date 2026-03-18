@@ -308,46 +308,75 @@ img {
 /* --------------------------
    MEMBERS DEFAULTS
 --------------------------- */
-.member-layout {
-  margin-top: 30px;
+.member-container {
+  max-width: 1000px;
+  margin: 40px auto;
+}
+
+.breadcrumb {
+  margin-bottom: 30px;
+  font-size: 14px;
+}
+
+/* HEADER */
+.member-header {
+  display: flex;
+  gap: 40px;
+  align-items: center;
   margin-bottom: 40px;
 }
 
-.member-photo {
+.member-left img {
   width: 180px;
   height: 180px;
   object-fit: cover;
   border-radius: 50%;
 }
 
-.member-name {
+/* RIGHT SIDE */
+.member-right h1 {
   margin-top: 0;
 }
 
-.member-role {
+.member-right h3 {
   color: #666;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
-.member-social a {
+/* EMAIL */
+.member-email {
+  margin-bottom: 10px;
+}
+
+.member-email a {
+  color: var(--green-primary);
+}
+
+/* LINKS */
+.member-links a {
   margin-right: 15px;
   color: var(--green-primary);
   font-weight: 500;
 }
 
-.member-social a:hover {
+.member-links a:hover {
   text-decoration: underline;
 }
 
+/* BIO */
 .member-bio {
-  margin-top: 30px;
-  max-width: 800px;
+  margin-top: 20px;
   line-height: 1.8;
   text-align: justify;
 }
 
+/* EDUCATION */
 .member-education {
   margin-top: 40px;
+}
+
+.member-education h3 {
+  margin-bottom: 10px;
 }
 
 /* =========================
