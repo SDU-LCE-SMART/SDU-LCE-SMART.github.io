@@ -16,23 +16,23 @@ permalink: /team/
 
 {% assign members = site.posts | where: 'category', 'Team Supervisor' | sort: 'date' %}
 {% for member in members %}
-<div class="card team-member-card">
-    <div class="row mt-3">
-        <div class="col-md-2">
+<div class="team-card-row">
+        <!-- IMAGE -->
+        <div class="team-image">
             <a href="{{ member.url }}">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
-                     class="card-img img-responsive img-thumbnail"
-                     style="max-width: 150px;"/>
+                     class="team-photo"/>
             </a>
         </div>
 
-        <div class="col-md-10">
-            <div class="card-body">
-                <h4 class="card-title">{{ member.title }}</h4>
-                <p class="card-text">{{ member.role }}</p>
-            </div>
+        <!-- INFO -->
+        <div class="team-info">
+            <h4 class="team-name">{{ member.title }}</h4>
+            <p class="team-role">{{ member.role }}</p>
         </div>
+
     </div>
+
 </div>
 {% endfor %}
 
