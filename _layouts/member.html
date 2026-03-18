@@ -33,19 +33,25 @@ layout: default
         </p>
       {% endif %}
 
-      <!-- SOCIAL LINKS -->
+      <!-- SOCIAL LINKS (UPDATED TO ICONS ONLY) -->
       <div class="member-links">
 
         {% if page.social.linkedin %}
-          <a href="{{ page.social.linkedin }}" target="_blank">LinkedIn</a>
+          <a href="{{ page.social.linkedin }}" target="_blank">
+            <i class="fab fa-linkedin"></i>
+          </a>
         {% endif %}
 
         {% if page.social["google-scholar"] %}
-          <a href="{{ page.social["google-scholar"] }}" target="_blank">Scholar</a>
+          <a href="{{ page.social["google-scholar"] }}" target="_blank">
+            <i class="fas fa-graduation-cap"></i>
+          </a>
         {% endif %}
 
         {% if page.social.website %}
-          <a href="{{ page.social.website }}" target="_blank">Website</a>
+          <a href="{{ page.social.website }}" target="_blank">
+            <i class="fas fa-globe"></i>
+          </a>
         {% endif %}
 
       </div>
