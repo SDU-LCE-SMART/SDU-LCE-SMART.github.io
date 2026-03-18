@@ -5,6 +5,7 @@ title: Benyamin Khoshnevisan
 image: IMG_0742.JPG.jpeg
 role: Associate Professor
 permalink: /team/researcher-name/
+email: bekh@igt.sdu.dk
 social:
     twitter:
     linkedin: https://www.linkedin.com/in/benyamin-khoshnevisan-23a51888/
