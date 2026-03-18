@@ -16,7 +16,10 @@ permalink: /team/
 
 {% assign members = site.posts | where: 'category', 'Team Supervisor' | sort: 'date' %}
 {% for member in members %}
-<div class="team-card-row">
+<div class="team-card">
+         
+    <div class="team-card-row">
+             
         <!-- IMAGE -->
         <div class="team-image">
             <a href="{{ member.url }}">
