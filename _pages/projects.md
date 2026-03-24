@@ -12,7 +12,7 @@ permalink: /projects/
   <img src="/images/agriloop.png">
 </div>
 
-**Duration:** 01/2023 – 12/2026  
+**Duration: 01/2023 – 12/2026**  
 **Funding:** EU Horizon Europe  
 
 **About the Project**  
@@ -21,7 +21,7 @@ AgriLoop is an international research project that aims to increase the value of
 **Keywords:** Biorefinery, Bioeconomy, Agri-residues 
 
 **Project Link:**  
-[https://www.agriloop-project.eu/](https://www.agriloop-project.eu/)
+[AgriLoop](https://www.agriloop-project.eu/)
 
 ---
 <a id="flavourferm"></a>
@@ -31,7 +31,7 @@ AgriLoop is an international research project that aims to increase the value of
   <img src="/images/flavourferm.png">
 </div>
 
-**Duration:** 11/2024 – 04/2028  
+**Duration: 11/2024 – 04/2028**  
 **Funding:** EU Horizon Europe 
 
 **About the Project**  
@@ -40,7 +40,7 @@ FLAVOURFERM aims to optimize, demonstrate, and deploy fermentation technologies 
 **Keywords:** Plant-based foods, Alternative proteins, Fermentation
 
 **Project Link:**  
-[https://www.flavourferm.eu/](https://www.flavourferm.eu/)
+[FLAVOURFERM](https://www.flavourferm.eu/)
 
 ---
 <a id="agro4agri"></a>
@@ -50,7 +50,7 @@ FLAVOURFERM aims to optimize, demonstrate, and deploy fermentation technologies 
   <img src="/images/agro4agri.png">
 </div>
 
-**Duration:** 05/2024 – 04/2028  
+**Duration: 05/2024 – 04/2028**  
 **Funding:** the European Union
 
 **About the Project**  
@@ -59,7 +59,7 @@ AGRO4AGRI is an EU-funded project set to revolutionize plant nutrition and prote
 **Keywords:** AI, LCA, Decision Support  
 
 **Project Link:**  
-[https://agro4agri.eu/](https://agro4agri.eu/)
+[AGRO4AGRI](https://agro4agri.eu/)
 
 ---
 <a id="marmade"></a>
@@ -69,7 +69,7 @@ AGRO4AGRI is an EU-funded project set to revolutionize plant nutrition and prote
   <img src="/images/marmade.png">
 </div>
 
-**Duration:** 09/2025 – 09/2029  
+**Duration: 09/2025 – 09/2029**  
 **Funding:** European Union – Horizon Europe, under the Circular Bio-based Europe Joint Undertaking (CBE JU), as a HORIZON Research and Innovation Action (HORIZON-RIA)
 
 **About the Project**  
@@ -78,14 +78,14 @@ MARMADE is creating a sustainable and innovative bio-based value chain for turni
 **Keywords:** Food and feed fish ingredients, Biorefinery approach, Cascading extraction processes
 
 **Project Link:**  
-[https://marmade-project.eu/](https://marmade-project.eu/)
+[MARMADE](https://marmade-project.eu/)
 
 ---
 <a id="ZDHydro"></a>
 ## ZDHydro
 **Development of an Integrated Zero Discharge Model for Sewage Sludge to Enhanced Hydrogen Production**
 
-**Duration:** 01/2023 – 04/2027  
+**Duration: 01/2023 – 04/2027**  
 **Funding:** Innovation Fund Danmark
 
 **About the Project**  
@@ -95,7 +95,7 @@ This project focuses on converting sewage sludge, which is an abundant and probl
 **Keywords:** biohydrogen production, sewage sludge valorization, waste-to-energy
 
 **Project Link:**  
-[https://agro4agri.eu/](https://agro4agri.eu/)
+[ZDHydro](https://agro4agri.eu/)
 
 ---
 <a id="alliance"></a>
@@ -105,7 +105,7 @@ This project focuses on converting sewage sludge, which is an abundant and probl
   <img src="/images/alliance.png">
 </div>
 
-**Duration:** 09/2025 – 08/2029  
+**Duration: 09/2025 – 08/2029**  
 **Funding:** ALLIANCE is supported by the Circular Bio-based Europe Joint Undertaking and its member, and co-funded by the EU (Grant No. 101214199).  
 
 **About the Project**  
@@ -115,14 +115,14 @@ The ALLIANCE project aims to accelerate the uptake of microalgae-based products 
 **Keywords:** ALLIANCE, Microalgae, MPB (multi-product biorefineries)
 
 **Project Link:**  
-[https://microalgae-alliance.eu/ ](https://microalgae-alliance.eu/ )
+[ALLIANCE](https://microalgae-alliance.eu/ )
 
 ---
 <a id="GreenImPro"></a>
 ## GreenImPro 
 **Improved business potential by increasing protein quality from green feed protein to food protein ingredients and high quality aquafeed**
 
-**Duration:** 04/2023 – 02/2025  
+**Duration: 04/2023 – 02/2025**  
 **Funding:** Innovation Fund Denmark
 
 **About the Project**  
@@ -131,7 +131,7 @@ GreenImPro is a research and innovation project that develops scalable biorefine
 **Keywords:** Green biorefinery, Alternative proteins, Sustainable food systems  
 
 **Project Link:**  
-[https://innovationsfonden.dk/en/news/new-project-will-revolutionize](https://innovationsfonden.dk/en/news/new-project-will-revolutionize)
+[GreenImPro](https://innovationsfonden.dk/en/news/new-project-will-revolutionize)
 
 ---
 <a id="take-off"></a>
@@ -141,7 +141,7 @@ GreenImPro is a research and innovation project that develops scalable biorefine
   <img src="/images/take-off.png">
 </div>
 
-**Duration:** 01/2021 – 12/2024  
+**Duration: 01/2021 – 12/2024**  
 **Funding:** the European Union’s Horizon 2020 research and innovation programme under grant agreement N°101006799.  
 
 **About the Project**  
@@ -162,7 +162,7 @@ The TAKE-OFF project aims to develop and demonstrate advanced technologies for p
   <img src="/images/walnut.png">
 </div>
 
-**Duration:** 09/2021 – 02/2026  
+**Duration: 09/2021 – 02/2026**
 **Funding:** the European Union’s Horizon 2020 research and innovation program under grant agreement N° 101000752.  
 
 **About the Project**  
