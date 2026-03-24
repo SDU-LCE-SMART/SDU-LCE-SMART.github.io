@@ -597,15 +597,12 @@ img {
 
 .news-image {
   width: 100%;
-  text-align: center;
   margin: 15px 0 20px 0;
 }
 
 .news-image img {
-  max-height: 300px;
-  max-width: 100%;
-  width: auto;
-  height: auto;
-  display: inline-block;
+  width: 100%;        /* FORCE full width */
+  height: auto;       /* keep aspect ratio */
+  display: block;     /* remove inline spacing */
   border-radius: 4px;
 }
