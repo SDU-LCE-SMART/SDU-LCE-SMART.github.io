@@ -3,7 +3,7 @@ title: "Projects"
 layout: default
 permalink: /projects/
 ---
-
+<a id="agriloop"></a>
 ## AgriLoop 
 
 **Pushing the frontier of circular agriculture by converting residues into novel economic, social and environmental opportunities**
@@ -24,7 +24,7 @@ AgriLoop is an international research project that aims to increase the value of
 [https://www.agriloop-project.eu/](https://www.agriloop-project.eu/)
 
 ---
-
+<a id="flavourferm"></a>
 ## FLAVOURFERM 
 **Unleashing the flavour potential of plant-based foods via fermentation**
 <div class="project-logo-box">
@@ -43,7 +43,7 @@ FLAVOURFERM aims to optimize, demonstrate, and deploy fermentation technologies 
 [https://www.flavourferm.eu/](https://www.flavourferm.eu/)
 
 ---
-
+<a id="agro4agri"></a>
 ## AGRO4AGRI 
 **FOSTERING THE ADVANCED USE OF AGROCHEMICALS FOR A SUSTAINABLE AGRICULTURE**
 <div class="project-logo-box">
@@ -62,7 +62,7 @@ AGRO4AGRI is an EU-funded project set to revolutionize plant nutrition and prote
 [https://agro4agri.eu/](https://agro4agri.eu/)
 
 ---
-
+<a id="agro4agri"></a>
 ## AGRO4AGRI 
 **FOSTERING THE ADVANCED USE OF AGROCHEMICALS FOR A SUSTAINABLE AGRICULTURE**
 <div class="project-logo-box">
@@ -81,7 +81,7 @@ AGRO4AGRI is an EU-funded project set to revolutionize plant nutrition and prote
 [https://agro4agri.eu/](https://agro4agri.eu/)
 
 ---
-
+<a id="marmade"></a>
 ## MARMADE 
 **MARine bioMass valorizAtion for fooD and fEed innovation**
 <div class="project-logo-box">
@@ -100,7 +100,7 @@ MARMADE is creating a sustainable and innovative bio-based value chain for turni
 [https://marmade-project.eu/](https://marmade-project.eu/)
 
 ---
-
+<a id="ZDHydro"></a>
 ## ZDHydro
 **Development of an Integrated Zero Discharge Model for Sewage Sludge to Enhanced Hydrogen Production**
 
@@ -117,7 +117,7 @@ This project focuses on converting sewage sludge, which is an abundant and probl
 [https://agro4agri.eu/](https://agro4agri.eu/)
 
 ---
-
+<a id="alliance"></a>
 ## ALLIANCE
 **(EUROPEAN MICROALGAE ALLIANCE): INNOVATIVE, SAFE, AND SUSTAINABLE MULTIPRODUCT BIOREFINERIES FOR A BLUE BIOBASED ECONOMY.**
 <div class="project-logo-box">
