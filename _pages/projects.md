@@ -9,7 +9,7 @@ permalink: /projects/
 **Pushing the frontier of circular agriculture by converting residues into novel economic, social and environmental opportunities**
 
 <div class="project-logo-box">
-  <img src="/images/projects/agriloop.jpg">
+  <img src="/images/agriloop.png">
 </div>
 
 **Duration:** 01/2023 – 12/2026  
