@@ -21,6 +21,9 @@ projects:
    link: /projects/#agro4agri
  - name: ALLIANCE
    link: /projects/#alliance
+ - name: FLAVOURFERM
+   link: /projects/#flavourferm
+
 
 ---
 
