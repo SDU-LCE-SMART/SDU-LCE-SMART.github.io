@@ -62,25 +62,6 @@ AGRO4AGRI is an EU-funded project set to revolutionize plant nutrition and prote
 [https://agro4agri.eu/](https://agro4agri.eu/)
 
 ---
-<a id="agro4agri"></a>
-## AGRO4AGRI 
-**FOSTERING THE ADVANCED USE OF AGROCHEMICALS FOR A SUSTAINABLE AGRICULTURE**
-<div class="project-logo-box">
-  <img src="/images/agro4agri.png">
-</div>
-
-**Duration:** 05/2024 – 04/2028  
-**Funding:** the European Union
-
-**About the Project**  
-AGRO4AGRI is an EU-funded project set to revolutionize plant nutrition and protection through cutting-edge nano and biotechnology. Within 4 years, by enhancing fertilizer efficiency and developing species-specific nematicides, the project aims to deliver sustainable and innovative solutions under the Safe and Sustainable by Design (SSbD) framework. The project focuses on implementing nano and biobased controlled delivery systems for fertilizers, combined with plant biostimulants, to boost nutrient use efficiency. Additionally, it aims to develop target-specific biopesticides using RNAi technology, which are safe for humans and non-target organisms. AGRO4AGRI’s solutions are designed to be biodegradable and environmentally friendly, reducing the need for traditional agrochemicals. Aligned with the European Green Deal, the Common Agricultural Policy (CAP), the Farm to Fork Strategy, and the United Nations’ Sustainable Development Goals, AGRO4AGRI aims to cut nutrient and pesticide use in agriculture by over 40% and 50%, respectively.
-
-**Keywords:** Sustainable agriculture, Slow-release fertilizers, SSbD  
-
-**Project Link:**  
-[https://agro4agri.eu/](https://agro4agri.eu/)
-
----
 <a id="marmade"></a>
 ## MARMADE 
 **MARine bioMass valorizAtion for fooD and fEed innovation**
@@ -135,5 +116,41 @@ The ALLIANCE project aims to accelerate the uptake of microalgae-based products 
 
 **Project Link:**  
 [https://microalgae-alliance.eu/ ](https://microalgae-alliance.eu/ )
+
+---
+<a id="GreenImPro"></a>
+## GreenImPro 
+**Improved business potential by increasing protein quality from green feed protein to food protein ingredients and high quality aquafeed**
+
+**Duration:** 04/2023 – 02/2025  
+**Funding:** Innovation Fund Denmark
+
+**About the Project**  
+GreenImPro is a research and innovation project that develops scalable biorefinery processes to produce high-quality protein ingredients from locally sourced green biomass such as alfalfa, white clover, and sea lettuce. The project aims to supply sustainable proteins for food, aquaculture, and animal feed while reducing Europe’s dependence on imported soy and lowering environmental impacts. By combining heat treatment with innovative vibrational membrane filtration, GreenImPro seeks to improve protein quality and support the commercial viability of green biorefineries.
+
+**Keywords:** Green biorefinery, Alternative proteins, Sustainable food systems  
+
+**Project Link:**  
+[https://innovationsfonden.dk/en/news/new-project-will-revolutionize](https://innovationsfonden.dk/en/news/new-project-will-revolutionize)
+
+---
+<a id="alliance"></a>
+## TAKE-OFF
+**Production of synthetic renewable aviation fuel from CO2 and H2.**
+<div class="project-logo-box">
+  <img src="/images/alliance.png">
+</div>
+
+**Duration:** 01/2021 – 12/2024  
+**Funding:** the European Union’s Horizon 2020 research and innovation programme under grant agreement N°101006799.  
+
+**About the Project**  
+The TAKE-OFF project aims to develop and demonstrate advanced technologies for producing next-generation Sustainable Aviation Fuel (SAF) using captured CO₂ and renewable hydrogen. The project focuses on an innovative power-to-liquid pathway that improves energy efficiency and reduces production costs compared to existing methods. TAKE-OFF will advance key technologies by converting CO₂ and H₂ into dimethyl ether (DME) and light olefins, progressing from TRL 3 to TRL 5 and TRL 4, respectively. These intermediates are essential steps toward SAF production. In addition, the project will evaluate the economic and environmental performance of SAF produced via the light olefins route and compare it with alternative production pathways. This includes identifying opportunities to reduce fuel costs, minimize environmental impacts, and optimize future SAF production systems. By achieving these objectives, TAKE-OFF contributes to the European Green Deal, Renewable Energy Directive II, and the UN Sustainable Development Goals, supporting the transition to sustainable aviation.
+
+
+**Keywords:** Sustainable aviation fuel, CO₂ utilization (CCU), Power-to-liquid (PtL)
+
+**Project Link:**  
+[TAKE-OFF](https://takeoff-project.eu/)
 
 ---
