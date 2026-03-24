@@ -219,6 +219,37 @@ figcaption {
   margin-bottom: 20px;
 }
 
+.project-logo-box {
+  width: 100%;
+  max-width: 300px;
+  height: 120px;
+  margin: 20px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.project-logo-box img {
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.project-block {
+  max-width: 900px;
+  margin: 40px auto;
+}
+
+.project-block p {
+  margin-bottom: 10px;
+}
+
+.project-keywords {
+  color: var(--green-primary);
+  font-size: 14px;
+  margin-top: 10px;
+}
+
 hr {
   margin: 50px 0;
   border-top: 1px solid #e5e5e5;
