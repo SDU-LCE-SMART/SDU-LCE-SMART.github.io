@@ -16,6 +16,11 @@ social:
     research-gate: https://www.researchgate.net/profile/Amin-Sadeghi-Sheshdeh-2?ev=hdr_xprf
 education:
  - "Master’s degree in Civil and Environmental Engineering"
+projects:
+ - name: AgriLoop
+   link: /projects/#agriloop
+ - name: GreenImPro
+   link: /projects/#GreenImPro
 ---
 
 Amin Sadeghi Sheshdeh is a PhD candidate at the Center for Life Cycle Engineering, Department of Green Technology, at the University of Southern Denmark. His research focuses on how diversified feed protein production systems reshape the sustainability of global food systems contributing to GreenImPro and AgriLoop projects. To investigate this, he applies multiple sustainability assessment approaches, including Prospective Life Cycle Assessment (LCA), Consequential LCA, the Product Environmental Footprint (PEF) method, and Techno-Economic Assessment (TEA). He also brings industry experience from working in the urban wastewater sector, which has shaped his perspective on real-world sustainability challenges. Amin holds a bachelor’s degree in Civil Engineering and a Master’s degree in Civil and Environmental Engineering.
