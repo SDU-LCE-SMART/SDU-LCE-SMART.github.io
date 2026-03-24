@@ -8,7 +8,9 @@ permalink: /projects/
 
 **Pushing the frontier of circular agriculture by converting residues into novel economic, social and environmental opportunities**
 
-<img src="/images/agriloop.png" class="project-image">
+<div class="project-logo-box">
+  <img src="/images/projects/agriloop.jpg">
+</div>
 
 **Duration:** 01/2023 – 12/2026  
 **Funding:** EU Horizon Europe  
@@ -25,8 +27,9 @@ AgriLoop is an international research project that aims to increase the value of
 
 ## FLAVOURFERM 
 **Unleashing the flavour potential of plant-based foods via fermentation**
-
-<img src="/images/flavourferm.png" class="project-image">
+<div class="project-logo-box">
+  <img src="/images/flavourferm.png">
+</div>
 
 **Duration:** 11/2024 – 04/2028  
 **Funding:** EU Horizon Europe 
@@ -43,8 +46,9 @@ FLAVOURFERM aims to optimize, demonstrate, and deploy fermentation technologies 
 
 ## AGRO4AGRI 
 **FOSTERING THE ADVANCED USE OF AGROCHEMICALS FOR A SUSTAINABLE AGRICULTURE**
-
-<img src="/images/agro4agri.png" class="project-image">
+<div class="project-logo-box">
+  <img src="/images/agro4agri.png">
+</div>
 
 **Duration:** 05/2024 – 04/2028  
 **Funding:** the European Union
@@ -61,8 +65,9 @@ AGRO4AGRI is an EU-funded project set to revolutionize plant nutrition and prote
 
 ## AGRO4AGRI 
 **FOSTERING THE ADVANCED USE OF AGROCHEMICALS FOR A SUSTAINABLE AGRICULTURE**
-
-<img src="/images/agro4agri.png" class="project-image">
+<div class="project-logo-box">
+  <img src="/images/agro4agri.png">
+</div>
 
 **Duration:** 05/2024 – 04/2028  
 **Funding:** the European Union
@@ -79,8 +84,9 @@ AGRO4AGRI is an EU-funded project set to revolutionize plant nutrition and prote
 
 ## MARMADE 
 **MARine bioMass valorizAtion for fooD and fEed innovation**
-
-<img src="/images/marmade.png" class="project-image">
+<div class="project-logo-box">
+  <img src="/images/marmade.png">
+</div>
 
 **Duration:** 09/2025 – 09/2029  
 **Funding:** European Union – Horizon Europe, under the Circular Bio-based Europe Joint Undertaking (CBE JU), as a HORIZON Research and Innovation Action (HORIZON-RIA)
@@ -114,8 +120,9 @@ This project focuses on converting sewage sludge, which is an abundant and probl
 
 ## ALLIANCE
 **(EUROPEAN MICROALGAE ALLIANCE): INNOVATIVE, SAFE, AND SUSTAINABLE MULTIPRODUCT BIOREFINERIES FOR A BLUE BIOBASED ECONOMY.**
-
-<img src="/images/alliance.png" class="project-image">
+<div class="project-logo-box">
+  <img src="/images/alliance.png">
+</div>
 
 **Duration:** 09/2025 – 08/2029  
 **Funding:** ALLIANCE is supported by the Circular Bio-based Europe Joint Undertaking and its member, and co-funded by the EU (Grant No. 101214199).  
