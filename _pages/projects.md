@@ -13,7 +13,7 @@ permalink: /projects/
 </div>
 
 **Duration: 01/2023 – 12/2026**  
-**Funding:** EU Horizon Europe
+**Funding:** EU Horizon Europe<br>
 **Status:** Ongoing
 
 **About the Project**  
@@ -33,7 +33,7 @@ AgriLoop is an international research project that aims to increase the value of
 </div>
 
 **Duration: 11/2024 – 04/2028**  
-**Funding:** EU Horizon Europe 
+**Funding:** EU Horizon Europe <br>
 **Status:** Ongoing
 
 **About the Project**  
@@ -53,7 +53,7 @@ FLAVOURFERM aims to optimize, demonstrate, and deploy fermentation technologies 
 </div>
 
 **Duration: 05/2024 – 04/2028**  
-**Funding:** the European Union
+**Funding:** the European Union<br>
 **Status:** Ongoing
 
 **About the Project**  
@@ -73,7 +73,7 @@ AGRO4AGRI is an EU-funded project set to revolutionize plant nutrition and prote
 </div>
 
 **Duration: 09/2025 – 09/2029**  
-**Funding:** European Union – Horizon Europe, under the Circular Bio-based Europe Joint Undertaking (CBE JU), as a HORIZON Research and Innovation Action (HORIZON-RIA)
+**Funding:** European Union – Horizon Europe, under the Circular Bio-based Europe Joint Undertaking (CBE JU), as a HORIZON Research and Innovation Action (HORIZON-RIA)<br>
 **Status:** Ongoing
 
 **About the Project**  
@@ -90,7 +90,7 @@ MARMADE is creating a sustainable and innovative bio-based value chain for turni
 **Development of an Integrated Zero Discharge Model for Sewage Sludge to Enhanced Hydrogen Production**
 
 **Duration: 01/2023 – 04/2027**  
-**Funding:** Innovation Fund Danmark
+**Funding:** Innovation Fund Danmark<br>
 **Status:** Ongoing
 
 **About the Project**  
@@ -111,7 +111,7 @@ This project focuses on converting sewage sludge, which is an abundant and probl
 </div>
 
 **Duration: 09/2025 – 08/2029**  
-**Funding:** ALLIANCE is supported by the Circular Bio-based Europe Joint Undertaking and its member, and co-funded by the EU (Grant No. 101214199). 
+**Funding:** ALLIANCE is supported by the Circular Bio-based Europe Joint Undertaking and its member, and co-funded by the EU (Grant No. 101214199). <br>
 **Status:** Ongoing
 
 **About the Project**  
@@ -129,7 +129,7 @@ The ALLIANCE project aims to accelerate the uptake of microalgae-based products 
 **Improved business potential by increasing protein quality from green feed protein to food protein ingredients and high quality aquafeed**
 
 **Duration: 04/2023 – 02/2025**  
-**Funding:** Innovation Fund Denmark
+**Funding:** Innovation Fund Denmark <br>
 **Status:** Completed
 
 **About the Project**  
@@ -149,7 +149,7 @@ GreenImPro is a research and innovation project that develops scalable biorefine
 </div>
 
 **Duration: 01/2021 – 12/2024**  
-**Funding:** the European Union’s Horizon 2020 research and innovation programme under grant agreement N°101006799.  
+**Funding:** the European Union’s Horizon 2020 research and innovation programme under grant agreement N°101006799.  <br>
 **Status:** Completed
 
 **About the Project**  
@@ -171,7 +171,7 @@ The TAKE-OFF project aims to develop and demonstrate advanced technologies for p
 </div>
 
 **Duration: 09/2021 – 02/2026**
-**Funding:** the European Union’s Horizon 2020 research and innovation program under grant agreement N° 101000752. 
+**Funding:** the European Union’s Horizon 2020 research and innovation program under grant agreement N° 101000752. <br>
 **Status:** Completed
 
 **About the Project**  
