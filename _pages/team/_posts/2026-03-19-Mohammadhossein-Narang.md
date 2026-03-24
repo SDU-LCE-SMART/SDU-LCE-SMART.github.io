@@ -16,7 +16,9 @@ social:
     research-gate: 
 education:
  - "Master’s degree in Voice Techonology (Machine Learning)"
-<a href="/projects/#agriloop">AgriLoop</a>
+projects:
+ - name: AgriLoop
+   link: /projects/#agriloop
 ---
 
 Mohammadhossein Narang is a Data Scientist with a strong background in computer science and holds a Master’s degree from the University of Groningen. His work focuses on machine learning and artificial intelligence, with a particular emphasis on AI-assisted Life Cycle Assessment (LCA). He is especially interested in making LCA more accessible, scalable, and easier to apply through intelligent, data-driven solutions. Within the team, he handles the technical aspects of projects, contributing to the development and implementation of AI-based approaches, including his involvement in the Agro4Agri project. He is also engaged in fostering collaborations and expanding the role of AI and data science approaches in advancing LCA within the LCE domain.
