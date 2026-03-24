@@ -16,6 +16,23 @@ social:
     research-gate: https://www.researchgate.net/profile/Benyamin-Khoshnevisan
 education:
  - "PhD in Biosystems Engineering"
+projects:
+ - name: AGRO4AGRI
+   link: /projects/#agro4agri
+ - name: ALLIANCE
+   link: /projects/#alliance
+ - name: FLAVOURFERM
+   link: /projects/#flavourferm
+ - name: AgriLoop
+   link: /projects/#agriloop
+ - name: MARMADE
+   link: /projects/#marmade
+ - name: GreenImPro
+   link: /projects/#GreenImPro
+ - name: ZDHydro
+   link: /projects/#ZDHydro
+ - name: TAKE-OFF
+   link: /projects/#take-off
 ---
 
 Dr. Khoshnevisan is an Associate Professor at the Center for Life Cycle Engineering, Faculty of Engineering, University of Southern Denmark. He obtained his PhD in Biosystems Engineering from the University of Tehran. Following his PhD, he worked as a researcher at the Technical University of Denmark and as a postdoctoral researcher at the Institute of Agricultural Resources and Regional Planning (Chinese Academy of Agricultural Sciences) before joining SDU in 2021.<br>
