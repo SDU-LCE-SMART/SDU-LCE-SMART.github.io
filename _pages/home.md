@@ -58,8 +58,19 @@ Building data-driven models that support sustainable resource planning.
 
 ## Latest News
 
-- Sustainability Assessment & Life Cycle Thinking Workshop
-- European Energy Innovation Magazine 
+<ul>
+  <li>
+    <a href="{{ site.baseurl }}/news/#Sustainability Assessment & Life Cycle Thinking Workshop">
+      Sustainability Assessment & Life Cycle Thinking Workshop
+    </a>
+  </li>
+
+  <li>
+    <a href="{{ site.baseurl }}/news/#European Energy Innovation Magazine">
+      European Energy Innovation Magazine
+    </a>
+  </li>
+</ul>
 
 <!-- =========================
 
