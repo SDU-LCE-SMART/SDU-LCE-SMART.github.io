@@ -135,6 +135,75 @@ a:hover {
   line-height: 1.6;
 }
 
+/* =========================
+   HERO RESPONSIVE FIX ONLY
+   (does NOT affect desktop)
+========================= */
+
+@media (max-width: 992px) {
+
+  .hero-banner {
+    height: 70vh; /* prevent collapsing */
+  }
+
+  .hero-logo {
+    max-width: 320px;
+  }
+
+  .hero-title {
+    font-size: 18px;
+  }
+
+  .hero-subtitle {
+    font-size: 14px;
+    padding: 0 10px;
+  }
+}
+
+
+@media (max-width: 768px) {
+
+  .hero-banner {
+    height: 60vh;
+  }
+
+  .hero-content {
+    width: 90%;
+  }
+
+  .hero-logo {
+    max-width: 260px;
+  }
+
+  .hero-title {
+    font-size: 16px;
+  }
+
+  .hero-subtitle {
+    font-size: 13px;
+  }
+}
+
+
+@media (max-width: 480px) {
+
+  .hero-banner {
+    height: 50vh;
+  }
+
+  .hero-logo {
+    max-width: 200px;
+  }
+
+  .hero-title {
+    font-size: 14px;
+  }
+
+  .hero-subtitle {
+    font-size: 12px;
+  }
+}
+
 
 /* --------------------------
    PAGE LAYOUT
