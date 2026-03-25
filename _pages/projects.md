@@ -161,6 +161,7 @@ The ALLIANCE project aims to accelerate the uptake of microalgae-based products 
 <a id="GreenImPro"></a>
 <div class="project-row">
 <div class="project-left">
+  <img src="/images/GreenImPro.jpg">
 </div>
 <div class="project-right">
 <h2>GreenImPro</h2>
