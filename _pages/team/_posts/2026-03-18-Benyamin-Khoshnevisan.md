@@ -1,6 +1,6 @@
 ---
 layout: member
-category: Team Supervisor
+category: Team Lead
 title: Benyamin Khoshnevisan
 image: IMG_0742.JPG.jpeg
 role: Associate Professor
