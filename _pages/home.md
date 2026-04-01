@@ -18,6 +18,8 @@ The team is particularly interested in developing new analytical tools, methodol
 
 ## Research Areas
 
+![Research Overview](/assets/images/ForWebsite.png)
+
 <!--
 
 <div class="research-grid">
@@ -53,9 +55,8 @@ Applying life-cycle thinking to improve environmental performance of products an
 Building data-driven models that support sustainable resource planning.
 
 </div>
--->
-
 </div>
+-->
 
 ---
 
