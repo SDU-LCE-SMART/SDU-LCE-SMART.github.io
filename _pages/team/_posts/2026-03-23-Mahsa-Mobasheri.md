@@ -9,7 +9,7 @@ email: moba@igt.sdu.dk
 social:
     twitter:
     linkedin: https://www.linkedin.com/in/mahsa-mobasheri-68ba2b179/
-    google-scholar: https://scholar.google.com/citations?user=yFE7k44AAAAJ&hl=en
+    google-scholar:
     github:
     website: https://portal.findresearcher.sdu.dk/en/persons/moba/
     orcid: https://orcid.org/my-orcid?orcid=0000-0003-1833-7712
