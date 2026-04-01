@@ -908,9 +908,8 @@ img {
 img[alt="Research Overview"] {
   display: block;
   width: 100%;
-  max-width: 1000px;   /* adjust based on your layout */
+  max-width: 1000px;
   height: auto;
-  margin: 0 auto;
-  text-align: center;
-  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
 }
