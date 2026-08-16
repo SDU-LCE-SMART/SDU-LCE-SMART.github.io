@@ -174,32 +174,29 @@ permalink: /team/
 
 {% assign members = site.posts | where: 'category', 'alumni' | sort: 'date' %}
 {% for member in members %}
-<div class="team-card">
+<div class="team-card alumni-card">
 
     <div class="team-card-row">
 
-<!-- INFO -->
-<div class="team-card-row">
-
-    <!-- IMAGE -->
-    {% if member.image %}
-    <div class="team-image">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
-             class="team-photo"/>
-    </div>
-    {% endif %}
-
-    <!-- INFO -->
-    <div class="team-info">
-        <h4 class="team-name">{{ member.title }}</h4>
-        <p class="team-role">{{ member.role }}</p>
-
-        {% if member.affiliation %}
-        <p class="team-affiliation">{{ member.affiliation }}</p>
+        <!-- IMAGE -->
+        {% if member.image %}
+        <div class="team-image">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
+                 class="team-photo"/>
+        </div>
         {% endif %}
-    </div>
 
-</div>
+        <!-- INFO -->
+        <div class="team-info">
+            <h4 class="team-name">{{ member.title }}</h4>
+            <p class="team-role">{{ member.role }}</p>
+
+            {% if member.affiliation %}
+            <p class="team-affiliation">{{ member.affiliation }}</p>
+            {% endif %}
+        </div>
+
+    </div>
 
 </div>
 {% endfor %}
