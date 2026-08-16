@@ -1,6 +1,6 @@
 ---
 layout: member
-category: current-visitors
+category: alumni
 title: Rebecca Bardelli
 image: Rebecca-Bardelli.jpeg
 role: Erasmus Guest Student
